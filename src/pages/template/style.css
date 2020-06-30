@@ -40,6 +40,9 @@ body{
   -o-animation: fadein 2s; /* Opera */
 }
 
+img{
+  max-width: 100%;
+}
 .App {
   text-align: center;
 }
