@@ -5,39 +5,34 @@ import Nav from 'react-bootstrap/Nav';
 import NavDropdown from 'react-bootstrap/NavDropdown';
 import Navbar from 'react-bootstrap/Navbar';
 import './style.css';
+import { FaWhatsapp } from 'react-icons/fa';
 
 function Header() {
  return (
   <div>
-  <header>
-  <div className="row m-0 py-4">
-	  <div className="logo col-3 col-xs-8">
-	  	
-	  </div>
-	  
-  </div>
-  </header>
-
-  <Navbar bg="light" expand="lg">
-  <Navbar.Brand href="#home"><img src={Logo} /></Navbar.Brand>
+  <Navbar expand="lg" className="fixed">
+  <div className="container-fluid">
+  <Navbar.Brand href="#home" className="col-3"><img src={Logo} /></Navbar.Brand>
   <Navbar.Toggle aria-controls="basic-navbar-nav" />
-  <div className="contacte-us text-center col-6">
+  <div className="contacte-us text-center col-5">
 	  Contact us and ask for a quote<br />
-	 +353 83 381 8131
+	          <FaWhatsapp /> +353 83 381 8131
 	  </div>
   <Navbar.Collapse id="basic-navbar-nav">
-    <Nav className="mr-auto">
-      <Nav.Link href="#home">Home</Nav.Link>
-      <Nav.Link href="#link">About Me</Nav.Link>
-      <NavDropdown title="Services" id="basic-nav-dropdown">
+    <Nav className="ml-auto">
+      <Nav.Link href="/">Home</Nav.Link>
+      <Nav.Link href="/about">About Me</Nav.Link>
+      {/*<NavDropdown title="Services" id="basic-nav-dropdown">
         <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
         <NavDropdown.Item href="#action/3.2">Another action</NavDropdown.Item>
         <NavDropdown.Item href="#action/3.3">Something</NavDropdown.Item>
-      </NavDropdown>
-      <Nav.Link href="#link">Portfolio</Nav.Link>
-      <Nav.Link href="#link">Contact</Nav.Link>
+      </NavDropdown>*/}
+      <Nav.Link href="/services">Services</Nav.Link>
+      <Nav.Link href="/portfolio">Portfolio</Nav.Link>
+      <Nav.Link href="/contact">Contact</Nav.Link>
     </Nav>
   </Navbar.Collapse>
+  </div>
 </Navbar>
   </div>
   );
