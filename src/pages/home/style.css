@@ -138,6 +138,21 @@ a{
     padding: 20px 0px 30px;
 }
 
+.nav-tabs{
+  border: 0px;
+}
+.nav-tabs a {
+    border: 0;
+    border-radius: 20px !important;
+}
+.nav-tabs a.active {
+    /* border: 1px solid #000 !important; */
+    border-radius: 20px !important;
+    border: 3px solid #000 !important;
+    font-weight: 700;
+    color: #000 !important;
+}
+
 .content{
   padding-top: 120px !important;
   padding-bottom: 120px !important;
