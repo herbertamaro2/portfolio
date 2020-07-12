@@ -1,37 +1,8 @@
 import React from "react";
-import Carousel, { Modal, ModalGateway } from 'react-images';		
+import FlickrLightbox from "react-flickr-lightbox";
 
-
-const images =
-[{
-        src: "https://c2.staticflickr.com/9/8817/28973449265_07e3aa5d2e_b.jpg"
-},
-{
-        src: "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg"
-},
-
-{
-        src: "https://c4.staticflickr.com/9/8887/28897124891_98c4fdd82b_b.jpg"
-}];
-
-class Identify extends React.Component {
-  state = { modalIsOpen: true }
-  toggleModal = () => {
-    this.setState(state => ({ modalIsOpen: !state.modalIsOpen }));
-  }
-  render() {
-    const { modalIsOpen } = this.state;
-
-    return (
-      <ModalGateway>
-        {modalIsOpen ? (
-          <Modal onClose={this.toggleModal}>
-            <Carousel views={images} />
-          </Modal>
-        ) : null}
-      </ModalGateway>
+export default function Identify() {
+  return (
+      <FlickrLightbox api_key='138e347faa6302c00650413cf2106c5c' user_id='189302524@N06' album_id='72157715067880037' thumbnailSizeParam='url_s' />
     );
   }
-}
-
-export default Identify;
