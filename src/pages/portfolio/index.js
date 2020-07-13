@@ -5,7 +5,6 @@ import Tabs from 'react-bootstrap/Tabs';
 import Tab from 'react-bootstrap/Tab';
 import Websites from './category/websites';
 import Identify from './category/identify';
-import SocialMedia from './category/socialmedia';
 import './style.css';
 
 function Portfolio() {
@@ -19,11 +18,8 @@ function Portfolio() {
 	  <Tab eventKey="home" title="Websites and Ecommerce">
 	    <Websites />
 	  </Tab>
-	  <Tab eventKey="profile" title="Identify Visual">
+	  <Tab eventKey="profile" title="Graphic Design">
 	    <Identify />
-	  </Tab>
-	  <Tab eventKey="contact" title="Social Media">
-	   	<SocialMedia />
 	  </Tab>
 	</Tabs>
     </section>
