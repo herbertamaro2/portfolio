@@ -19,7 +19,7 @@ function Footer() {
 	  		<li className="list-inline-item"><Link to="#"><FaEnvelope /></Link></li>
 	  	</ul>
 	  	</div>
-	  	<div className="language ml-auto mr-5">
+	  	<div className="language ml-auto mr-5 hide">
 	  		<Dropdown>
 				  <Dropdown.Toggle variant="light" id="dropdown-basic">
 				    <FaGlobe /> EN

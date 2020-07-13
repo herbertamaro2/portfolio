@@ -14,7 +14,7 @@ function Portfolio() {
     <section className="content content-portfolio py-5 px-5">
     <h1>Portfolio</h1>
 
-    <Tabs defaultActiveKey="profile" id="uncontrolled-tab-example">
+    <Tabs defaultActiveKey="home" id="uncontrolled-tab-example">
 	  <Tab eventKey="home" title="Websites and Ecommerce">
 	    <Websites />
 	  </Tab>

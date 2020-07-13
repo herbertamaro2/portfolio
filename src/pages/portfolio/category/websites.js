@@ -3,12 +3,6 @@ import React from 'react';
 function Websites() {
   return (
     <div>
-    	<div className="intro text-left">
-    		<h3>Websites</h3>
-    		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae metus vel lorem tincidunt ornare vel non ex. 
-    		Aenean nisl sapien, congue id neque ac, consectetur placerat risus. Praesent non quam in mi dictum gravida eget at nisl. Suspendisse id ex aliquam, lacinia lorem in, dignissim tellus.</p>
-    	</div>
-
     	<div className="section-page">
     		<ul className="row m-0 p-0">
 	    		<li className="list-portfolio col-12 text-left d-flex">
