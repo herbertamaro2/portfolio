@@ -14,7 +14,6 @@ function Services() {
     <Header />
     <section className="content content-services py-5 px-5">
     <h1>Services</h1>
-	<p>My Habilities</p>
     <div class="content-block">
 		<ul className="row m-0 text-center align-content-center justify-content-center">
 			<li className="service pb-3 col-2 col-md-2 col-xs-12">
@@ -22,7 +21,7 @@ function Services() {
 					<img src={WebsiteImg} />
 				</div>
 				<h2>Development of Websites</h2>
-				<p>Websites profissionais, do layout a finalização</p>
+				<p>Full Professional websites, from layout to end of project</p>
 			</li>
 
 			<li className="service pb-3 col-2 col-md-2 col-xs-12">
@@ -30,7 +29,7 @@ function Services() {
 					<img src={EcommerceImg} />
 				</div>
 				<h2>Ecommerce</h2>
-				<p>Websites profissionais, do layout a finalização</p>
+				<p>We create professionals stores that sell</p>
 			</li>
 
 
@@ -39,7 +38,7 @@ function Services() {
 					<FaRss />
 				</div>
 				<h2>Blogs</h2>
-				<p>Criação de blogs de diversos tipos.</p>
+				<p>Creation of blogs of different types.</p>
 			</li>	
 
 			<li className="service pb-3 col-2 col-md-2 col-xs-12">
@@ -47,15 +46,15 @@ function Services() {
 					<FaFire />
 				</div>
 				<h2>Hotsites</h2>
-				<p>Experiência em criação de sites promocionais.</p>
+				<p>Experience in creating promotional sites.</p>
 			</li>
 
 			<li className="service pb-3 col-2 col-md-2 col-xs-12">
 				<div className="icon">
 					<img src={LogomarcaImg} />
 				</div>
-				<h2>Logomarcas</h2>
-				<p>Criação e Reformulação de Identidade Visual</p>
+				<h2>Logotype</h2>
+				<p>Visual Identity Creation and Reformulation</p>
 			</li>
 
 
@@ -64,14 +63,14 @@ function Services() {
 					<FaBook />
 				</div>
 				<h2>Midia Kit</h2>
-				<p>Criação de campanha online para blog, e midias digitais.</p>
+				<p>Creation of online campaign for blog, and digital media.</p>
 			</li>
 			<li className="service pb-3 col-2 col-md-2 col-xs-12">
 				<div className="icon">
 					<FaCode />
 				</div>
 				<h2>Frontend</h2>
-				<p>Desenvolvimento Frontend utilizando as mais modernas tecnologias</p>
+				<p>Frontend development using the most modern technologies</p>
 			</li>
 
 			<li className="service pb-3 col-2 col-md-2 col-xs-12">
@@ -79,7 +78,7 @@ function Services() {
 					<FaPaintBrush />
 				</div>
 				<h2>Layouts for Web</h2>
-				<p>Criamos o layout para seu site,webapp, do zero, meu amigo!</p>
+				<p>We created the layout for your website, webapp, from scratch, my friend!</p>
 			</li>
 
 
@@ -87,8 +86,8 @@ function Services() {
 				<div className="icon">
 					<FaIdCard />
 				</div>
-				<h2>Papelaria</h2>
-				<p>Criação de Mídias Impressas</p>
+				<h2>Papers</h2>
+				<p>Creation of print media</p>
 			</li>	
 
 			

@@ -190,3 +190,72 @@ footer:before {
 .techno-list{
   font-size: 28px;
 }
+
+@media(max-width: 768px){
+  .xs-hide {
+    display: none;
+  }
+  h1 {
+    font-size: 18px;
+  }
+  .content-about{
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+  }
+  p.mx-5.px-5 {
+    padding: 15px !important;
+    margin: 0 !important;
+    text-align: justify;
+  }
+  nav.fixed {
+    padding: 15px;
+}
+a.col-3.navbar-brand {
+  max-width: 250px !important;
+  flex: 300px;
+}
+li.service {
+  flex: none;
+  float: left;
+  display: block;
+  width: 100%;
+  max-width: 100%;
+}
+
+ul{
+  padding-left:0px;
+  margin-left:0px;
+}
+
+.content-portfolio .nav-tabs a {
+  text-align: center;
+  width: 100%;
+}
+
+li.list-portfolio {
+  display: block !important;
+}
+
+.block-img {
+  width: 100% !important;
+}
+.block-title {
+  width: 100%;
+  float: left;
+}
+.block-title h2{
+  font-size: 19px !important;
+}
+.content-portfolio {
+  padding-left: 15px !important;
+  padding-right: 15px !important;
+}
+.content-contact .col-6.col-xs-12 {
+  flex: none;
+  max-width: none;
+}
+
+button.navbar-toggler {
+  border: 0;
+}
+}

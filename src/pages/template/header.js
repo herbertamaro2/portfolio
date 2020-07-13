@@ -12,9 +12,9 @@ function Header() {
   <div>
   <Navbar expand="lg" className="fixed">
   <div className="container-fluid">
-  <Navbar.Brand href="#home" className="col-3"><img src={Logo} /></Navbar.Brand>
+  <Navbar.Brand href="/" className="col-3"><img src={Logo} /></Navbar.Brand>
   <Navbar.Toggle aria-controls="basic-navbar-nav" />
-  <div className="contacte-us text-center col-5">
+  <div className="contacte-us text-center col-5 xs-hide">
 	  Contact us and ask for a quote<br />
 	          <FaWhatsapp /> +353 83 381 8131
 	  </div>
