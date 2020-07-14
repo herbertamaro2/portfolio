@@ -14,7 +14,7 @@ function Home() {
      
     <h1>HERBERT AMARO SANTANA</h1>
         <p className="mx-5 px-5">
-          Web Developer, I work in the creation and development environment. 24, native of Itaquaquecetuba / SP, has experience in frontend and web designer, as well as working in the digital environment as interface designer for websites, branding, mobile applications and social networks. Creative and active, I am always looking for new knowledge to attend to the rapid changes of the market, the internet advance and its social networks, with the purpose of increasing sales of my clients and strengthening their brand in the digital environment.
+          Web Developer, 25 years, 8 years of experience. Brazilian living in Dublin, Ireland. I work in the creation and development systems, has experience in frontend and web designer, as well as working in the digital environment as interface designer for websites, branding, mobile applications and social networks. Creative and active, I am always looking for new knowledge to attend to the fast changes of the market, the internet advance and its social networks, with the purpose of increasing sales of my clients and strengthening their brand in the digital environment.
         </p>
         <ul className="techno-list list-inline">
         <li className="list-inline-item"><FaHtml5 /></li>
