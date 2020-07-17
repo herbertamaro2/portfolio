@@ -10,11 +10,11 @@ function Websites() {
 	    				<img src="https://herbertamaro.com/wp-content/uploads/2018/02/viagenslovers.jpg" />
 	    			</div>
 	    			<div class="block-title">
-	    			<h2>Viagens Lovers - Rede Social</h2>
-	    			<p>Uma rede social, para mochileiros, trabalho completo.</p>
+	    			<h2>Viagens Lovers - Social Network</h2>
+	    			<p>Social Network for travellers.</p>
 					<ul>
-						<li><strong>Trabalho desenvolvido:</strong> Layout + Front + Gerenciável + App Mobile</li>
-						<li><strong>Tecnologia:</strong> HTML5, Javascript, CSS3, PHP</li>
+						<li><strong>Job:</strong> Layout + Front + Dashboard + App Mobile</li>
+						<li><strong>Tecnology:</strong> HTML5, Javascript, CSS3, PHP</li>
 					</ul>
 	    			</div>
 	    		</li>
@@ -24,10 +24,10 @@ function Websites() {
 	    			</div>
 	    			<div class="block-title">
 	    			<h2>Playerlink - League of Legends</h2>
-	    			<p>Front desenvolvido para a Playerlink um site voltado ao mundo do e-Sports.</p>
+	    			<p>Front development to Playerlink a site for the world e-Sports.</p>
 					<ul>
-						<li><strong>Trabalho desenvolvido:</strong> Layout + Front + Gerenciável</li>
-						<li><strong>Tecnologia:</strong> HTML5, Javascript, CSS3, PHP, Wordpress</li>
+						<li><strong>Job:</strong> Layout + Front + Dashboard</li>
+						<li><strong>Tecnology:</strong> HTML5, Javascript, CSS3, PHP, Wordpress</li>
 					</ul>
 	    			</div>
 	    		</li>
@@ -36,11 +36,11 @@ function Websites() {
 	    				<img src="https://herbertamaro.com/wp-content/uploads/2018/02/viagenslovers.jpg" />
 	    			</div>
 	    			<div class="block-title">
-	    			<h2>Seu Programador - Site de Captação  de Clientes </h2>
-	    			<p>Uma rede social, para mochileiros, trabalho completo.</p>
+	    			<h2>Seu Programador - Agency Web </h2>
+	    			<p>Agency Portfolio</p>
 					<ul>
-						<li><strong>Trabalho desenvolvido:</strong> Layout + Front + Gerenciável + App Mobile</li>
-						<li><strong>Tecnologia:</strong> HTML5, Javascript, CSS3, PHP</li>
+						<li><strong>Job:</strong> Layout + Front + Dashboard + App Mobile</li>
+						<li><strong>Tecnology:</strong> HTML5, Javascript, CSS3, PHP</li>
 					</ul>
 	    			</div>
 	    		</li>
@@ -51,9 +51,9 @@ function Websites() {
 	    			<div class="block-title">
 	    			<h2>Letras aqui - Letras de Músicas</h2>
 	    			<p>Serviços de músicas online, onde pode ver e ouvir músicas de diversos tipos e gêneros.</p>
-					<ul>
-						<li><strong>Trabalho desenvolvido:</strong> Logo + Layout + Front + Gerenciável</li>
-						<li><strong>Tecnologia:</strong> HTML5, Javascript, CSS3, PHP</li>
+					<ul> 
+						<li><strong>Job:</strong> Logo + Layout + Front + Dashboard</li>
+						<li><strong>Tecnology:</strong> HTML5, Javascript, CSS3, PHP</li>
 
 					</ul>
 	    			</div>
@@ -67,8 +67,8 @@ function Websites() {
 	    			<h2>Agência de Idéias - Agência Web</h2>
 	    			<p>Site desenvolvido para agência digital, Agência de idéias.</p>
 					<ul>
-						<li><strong>Trabalho desenvolvido:</strong> Logo + Layout + Front + Gerenciável</li>
-						<li><strong>Tecnologia:</strong>Reactjs, HTML5, Javascript, CSS3, PHP</li>
+						<li><strong>Job:</strong> Logo + Layout + Front + Dashboard</li>
+						<li><strong>Tecnology:</strong>Reactjs, HTML5, Javascript, CSS3, PHP</li>
 
 					</ul>
 	    			</div>
