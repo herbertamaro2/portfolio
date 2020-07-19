@@ -53,7 +53,7 @@ function Websites() {
 	    			<p>Serviços de músicas online, onde pode ver e ouvir músicas de diversos tipos e gêneros.</p>
 					<ul> 
 						<li><strong>Job:</strong> Logo + Layout + Front + Dashboard</li>
-						<li><strong>Tecnology:</strong> HTML5, Javascript, CSS3, PHP</li>
+						<li><strong>Tecnology:</strong> HTML5, Javascript, CSS3</li>
 
 					</ul>
 	    			</div>
