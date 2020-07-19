@@ -68,7 +68,7 @@ function Websites() {
 	    			<p>Site desenvolvido para agência digital, Agência de idéias.</p>
 					<ul>
 						<li><strong>Job:</strong> Logo + Layout + Front + Dashboard</li>
-						<li><strong>Tecnology:</strong>Reactjs, HTML5, Javascript, CSS3, PHP</li>
+						<li><strong>Tecnology:</strong>Reactjs, HTML5, Javascript, CSS3</li>
 
 					</ul>
 	    			</div>
