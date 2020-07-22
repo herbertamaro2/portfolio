@@ -43,7 +43,7 @@ function Websites() {
 						<li><strong>Tecnology:</strong> HTML5, Javascript, CSS3, PHP</li>
 					</ul>
 	    			</div>
-	    		</li>
+	    		</li>  
 	    		<li className="list-portfolio col-12 text-left d-flex">
 	    			<div className="block-img">	
 	    				<img src="https://herbertamaro.com/wp-content/uploads/2017/08/letrasaqui.jpg" />
