@@ -55,7 +55,7 @@ function Websites() {
 						<li><strong>Job:</strong> Logo + Layout + Front + Dashboard</li>
 						<li><strong>Tecnology:</strong> HTML5, Javascript, CSS3</li>
 
-					</ul>
+					</ul> 
 	    			</div>
 	    		</li>
 
