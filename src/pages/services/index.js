@@ -38,7 +38,7 @@ function Services() {
 					<FaRss />
 				</div>
 				<h2>Blogs</h2>
-				<p>Creation of blogs of different types.</p>
+				<p>Creation of blogs.</p>
 			</li>	
 
 			<li className="service pb-3 col-2 col-md-2 col-xs-12">
