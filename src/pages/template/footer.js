@@ -6,7 +6,9 @@ import { FaWhatsapp, FaFacebook, FaInstagram, FaTwitter, FaGithub, FaBehance, Fa
 function Footer() {
  return (
  	<div>
+	  <div className="whatsapp-footer"><a href="http://wa.me/3530833818131">Estamos Online</a></div>
 	  <footer className="d-flex flex-row">
+
 	  	<div className="redes-sociais col mx-auto text-center">
 	  	<ul className="list-inline">
 	  		<li className="list-inline-item"><Link to="#"><FaGithub /></Link></li>

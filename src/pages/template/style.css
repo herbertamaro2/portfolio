@@ -87,3 +87,16 @@ h1 {
     transform: rotate(360deg);
   }
 }
+
+
+.whatsapp-footer{
+  position: fixed;
+  bottom:15px;
+  right: 15px;
+}
+
+.whatsapp-footer a{
+  background: green;
+  border-radius: 10px;
+  padding: 5px;
+  color: #fff;
