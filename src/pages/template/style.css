@@ -113,6 +113,11 @@ h1 {
   background:#479e4b;
 }
 
+
+.tooltip2{
+  position: relative;
+  display:inline-block;
+}
 .tooltip2 .tooltiptext {
   visibility: hidden;
   width: 120px;
