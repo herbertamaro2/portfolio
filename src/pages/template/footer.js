@@ -14,7 +14,8 @@ function Footer() {
 	  		<li className="list-inline-item"><a href="https://github.com/herbertamaro2" target="_blank"><FaGithub /></a></li>
 	  		<li className="list-inline-item"><a href="https://facebook.com/herbertdesigner" target="_blank"><FaFacebook /></a></li>
 	  		<li className="list-inline-item"><a href="https://instagram.com/herbertamaro" target="_blank"><FaInstagram /></a></li>
-	  		<li className="list-inline-item"><a href="http://behance.net/herbertamaro" target="_blank"><FaBehance /></a></li>
+	  		<li className="list-inline-item"><a href="https://behance.net/herbertamaro" target="_blank"><FaBehance /></a></li>
+	  		<li className="list-inline-item"><a href="https://www.flickr.com/photos/herbertdesigner" target="_blank"><FaFlickr /></a></li>
 	  		<li className="list-inline-item"><a href="skype:herbertamaro?chat"><FaSkype /></a></li>
 	  		<li className="list-inline-item"><a mailto="mandajob@herbertamaro.com"><FaEnvelope /></a></li>
 	  	</ul>
