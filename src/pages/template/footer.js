@@ -11,14 +11,12 @@ function Footer() {
 
 	  	<div className="redes-sociais col mx-auto text-center">
 	  	<ul className="list-inline">
-	  		<li className="list-inline-item"><Link to="#"><FaGithub /></Link></li>
-	  		<li className="list-inline-item"><Link to="#"><FaFacebook /></Link></li>
-	  		<li className="list-inline-item"><Link to="#"><FaInstagram /></Link></li>
-	  		<li className="list-inline-item"><Link to="#"><FaTwitter /></Link></li>
-	  		<li className="list-inline-item"><Link to="#"><FaBehance /></Link></li>
-	  		<li className="list-inline-item"><Link to="#"><FaSkype /></Link></li>
-	  		<li className="list-inline-item"><Link to="#"><FaPinterest /></Link></li>
-	  		<li className="list-inline-item"><Link to="#"><FaEnvelope /></Link></li>
+	  		<li className="list-inline-item"><a href="https://github.com/herbertamaro2" target="_blank"><FaGithub /></a></li>
+	  		<li className="list-inline-item"><a href="https://facebook.com/herbertdesigner" target="_blank"><FaFacebook /></a></li>
+	  		<li className="list-inline-item"><a href="https://instagram.com/herbertamaro" target="_blank"><FaInstagram /></a></li>
+	  		<li className="list-inline-item"><a href="http://behance.net/herbertamaro" target="_blank"><FaBehance /></a></li>
+	  		<li className="list-inline-item"><a href="skype:herbertamaro?chat"><FaSkype /></a></li>
+	  		<li className="list-inline-item"><a mailto="mandajob@herbertamaro.com"><FaEnvelope /></a></li>
 	  	</ul>
 	  	</div>
 	  	
