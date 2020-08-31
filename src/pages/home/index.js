@@ -17,18 +17,18 @@ function Home() {
           Web Developer, 25 years, 8 years of experience. Brazilian living in Dublin, Ireland. I work in the creation and development systems, has experience in frontend and web designer, as well as working in the digital environment as interface designer for websites, branding, mobile applications and social networks. Creative and active, I am always looking for new knowledge to attend to the fast changes of the market, the internet advance and its social networks, with the purpose of increasing sales of my clients and strengthening their brand in the digital environment.
         </p>
         <ul className="techno-list list-inline">
-        <li className="list-inline-item tooltip"><FaHtml5 alt="Html 5" /> <span className="tooltiptext">HTML 5</span></li>
-        <li className="list-inline-item"><FaCss3 /> <span className="tooltiptext">CSS3</span></li>
-        <li className="list-inline-item"><FaBootstrap /></li>
-        <li className="list-inline-item"><FaJsSquare /></li>
-        <li className="list-inline-item"><FaNodeJs /></li>
-        <li className="list-inline-item"><FaReact /></li>
-        <li className="list-inline-item"><FaVuejs /></li>
-        <li className="list-inline-item"><FaGit /></li>
-        <li className="list-inline-item"><FaPhp /></li>
-        <li className="list-inline-item"><FaLaravel /></li>
-        <li className="list-inline-item"><FaWordpress /></li>
-        <li className="list-inline-item"><FaAdobe /></li>
+        <li className="list-inline-item tooltip2"><FaHtml5 alt="Html 5" /> <span className="tooltiptext">HTML 5</span></li>
+        <li className="list-inline-item tooltip2"><FaCss3 /> <span className="tooltiptext">CSS3</span></li>
+        <li className="list-inline-item tooltip2"><FaBootstrap /><span className="tooltiptext">Bootstrap</span></li>
+        <li className="list-inline-item tooltip2"><FaJsSquare /><span className="tooltiptext">Javascript</span></li>
+        <li className="list-inline-item tooltip2"><FaNodeJs /><span className="tooltiptext">NodeJS</span></li>
+        <li className="list-inline-item tooltip2"><FaReact /><span className="tooltiptext">ReactJS</span></li>
+        <li className="list-inline-item tooltip2"><FaVuejs /><span className="tooltiptext">VueJS</span></li>
+        <li className="list-inline-item tooltip2"><FaGit /><span className="tooltiptext">Git</span></li>
+        <li className="list-inline-item tooltip2"><FaPhp /><span className="tooltiptext">PHP</span></li>
+        <li className="list-inline-item tooltip2"><FaLaravel /><span className="tooltiptext">Laravel</span></li>
+        <li className="list-inline-item tooltip2"><FaWordpress /><span className="tooltiptext">Wordpress</span></li>
+        <li className="list-inline-item tooltip2"><FaAdobe /><span className="tooltiptext">Adobe</span></li>
         </ul>
         
         

@@ -113,7 +113,7 @@ h1 {
   background:#479e4b;
 }
 
-.tooltip .tooltiptext {
+.tooltip2 .tooltiptext {
   visibility: hidden;
   width: 120px;
   background-color: black;
@@ -128,6 +128,6 @@ h1 {
 }
 
 /* Show the tooltip text when you mouse over the tooltip container */
-.tooltip:hover .tooltiptext {
+.tooltip2:hover .tooltiptext {
   visibility: visible;
 }
