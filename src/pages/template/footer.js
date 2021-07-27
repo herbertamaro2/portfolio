@@ -1,7 +1,7 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
 import Dropdown from 'react-bootstrap/Dropdown';
-import { FaWhatsapp, FaFacebook, FaInstagram, FaTwitter, FaGithub, FaBehance, FaSkype, FaPinterest, FaEnvelope, FaGlobe } from 'react-icons/fa';
+import { FaWhatsapp, FaFacebook, FaInstagram, FaTwitter, FaGithub, FaFlickr, FaBehance, FaSkype, FaPinterest, FaEnvelope, FaGlobe } from 'react-icons/fa';
 
 function Footer() {
  return (
