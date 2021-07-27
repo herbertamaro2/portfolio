@@ -7,7 +7,7 @@ function Websites() {
     		<ul className="row m-0 p-0">
 	    		<li className="list-portfolio col-12 text-left d-flex">
 	    			<div className="block-img">	
-	    				<img src="https://herbertamaro.com/wp-content/uploads/2018/02/viagenslovers.jpg" />
+	    				<img src="https://herbertamaro.me/wp-content/uploads/2018/02/viagenslovers.jpg" />
 	    			</div>
 	    			<div class="block-title">
 	    			<h2>Viagens Lovers - Social Network</h2>
@@ -20,7 +20,7 @@ function Websites() {
 	    		</li>
 	    		<li className="list-portfolio col-12 text-left d-flex">
 	    			<div className="block-img">	
-	    				<img src="https://herbertamaro.com/wp-content/uploads/2018/02/playerlink.jpg" />
+	    				<img src="https://herbertamaro.me/wp-content/uploads/2018/02/playerlink.jpg" />
 	    			</div>
 	    			<div class="block-title">
 	    			<h2>Playerlink - League of Legends</h2>
@@ -33,7 +33,7 @@ function Websites() {
 	    		</li>
 	    		<li className="list-portfolio col-12 text-left d-flex">
 	    			<div className="block-img">	
-	    				<img src="https://herbertamaro.com/wp-content/uploads/2018/02/viagenslovers.jpg" />
+	    				<img src="https://herbertamaro.me/wp-content/uploads/2018/02/viagenslovers.jpg" />
 	    			</div>
 	    			<div class="block-title">
 	    			<h2>Seu Programador - Agency Web </h2>
@@ -46,7 +46,7 @@ function Websites() {
 	    		</li>  
 	    		<li className="list-portfolio col-12 text-left d-flex">
 	    			<div className="block-img">	
-	    				<img src="https://herbertamaro.com/wp-content/uploads/2017/08/letrasaqui.jpg" />
+	    				<img src="https://herbertamaro.me/wp-content/uploads/2017/08/letrasaqui.jpg" />
 	    			</div>
 	    			<div class="block-title">
 	    			<h2>Letras aqui - Letras de Músicas</h2>
@@ -61,7 +61,7 @@ function Websites() {
 
 	    		<li className="list-portfolio col-12 text-left d-flex">
 	    			<div className="block-img">	
-	    				<img src="https://herbertamaro.com/wp-content/uploads/2017/08/agenciadeideias.jpg" />
+	    				<img src="https://herbertamaro.me/wp-content/uploads/2017/08/agenciadeideias.jpg" />
 	    			</div>
 	    			<div class="block-title">
 	    			<h2>Agência de Idéias - Agência Web</h2>
