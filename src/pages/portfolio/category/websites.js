@@ -33,7 +33,7 @@ function Websites() {
 	    		</li>
 	    		<li className="list-portfolio col-12 text-left d-flex">
 	    			<div className="block-img">	
-	    				<img src="https://hltec.com.br/img/agenciaideias.jpg" />
+	    				<img src="https://hltec.com.br/img/seuprogramador.jpg" />
 	    			</div>
 	    			<div class="block-title">
 	    			<h2>Seu Programador - Agency Web </h2>
